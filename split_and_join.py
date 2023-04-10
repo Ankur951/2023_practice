@@ -1,4 +1,4 @@
-string = (input("plies enter a string="))
+string = input("plies enter a string=")
 
 
 def split_a_join(line):
